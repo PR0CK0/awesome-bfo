@@ -11,6 +11,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [BFO](#bfo)
 - [Barry Smith](#barry-smith)
 - [BFO-Derived Ontologies](#bfo-derived-ontologies)
+- [Barry Smith Relevant Reading](#barry-smith-relevant-reading)
 
 ## Related Lists
 - [Awesome Semantic Web](https://github.com/PR0CK0/awesome-semantic-web) - Related awesome list with general Semantic Web resources.
@@ -26,6 +27,8 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [BFO at BioPortal](https://bioportal.bioontology.org/ontologies/BFO?p=classes)
 
 ## Barry Smith
+- University email: phismith@buffalo.edu
+- Company email: ifomis@gmail.com
 - [Homepage](http://ontology.buffalo.edu/)
 - [Links to his papers, ontologies, associations, contacts and projects](http://ontology.buffalo.edu/smith/)
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
@@ -39,3 +42,5 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
   - [IAO-Based Information ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Data_and_Information_Ontologies)
 - [BFO-Based Engineering Ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Engineering_Ontologies)
 - [Ontology for Data Mining (OntoDM)](https://kt.ijs.si/panovp/OntoDM/)
+
+## Barry Smith Relevant Reading
