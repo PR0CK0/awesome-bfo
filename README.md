@@ -10,6 +10,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [Semantic Web](#semantic-web)
 - [BFO](#bfo)
 - [Barry Smith](#barry-smith)
+- [Derived Ontologies](#derived-ontologies)
 
 ## Semantic Web
 Related awesome list with general Semantic Web resources.
@@ -28,3 +29,7 @@ Any link here has download links for BFO in OWL.
 - [Links to his ontologies and projects](http://ontology.buffalo.edu/smith/)
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
 - [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
+
+## Derived Ontologies
+- [Open Biomedical Ontologies](https://obofoundry.org/)
+- [Common Core Ontologies (CCO)](https://github.com/CommonCoreOntology/CommonCoreOntologies)
