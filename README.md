@@ -27,7 +27,7 @@ Any link here has download links for BFO in OWL.
 
 ## Barry Smith
 - [Homepage](http://ontology.buffalo.edu/)
-- [Links to his ontologies and projects](http://ontology.buffalo.edu/smith/)
+- [Links to his papers, ontologies, associations, contacts and projects](http://ontology.buffalo.edu/smith/)
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
 - [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
 
