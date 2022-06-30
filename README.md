@@ -7,14 +7,15 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 
 ## Contents
 
-- [Semantic Web](#semantic-web)
+- [Related Lists](#related-lists)
 - [BFO](#bfo)
 - [Barry Smith](#barry-smith)
 - [BFO-Derived Ontologies](#bfo-derived-ontologies)
 
-## Semantic Web
-Related awesome list with general Semantic Web resources.
-- [Awesome Semantic Web](https://github.com/PR0CK0/awesome-semantic-web)
+## Related Lists
+- [Awesome Semantic Web](https://github.com/PR0CK0/awesome-semantic-web) - Related awesome list with general Semantic Web resources.
+- [Awesome Philosophy](https://github.com/HussainAther/awesome-philosophy) - Names of useful philosophy books separated by topic.
+- [Awesome Philosophy in Computer Science](https://github.com/glennstreet/awesome-philosophy-compsci) - A list of resources that cross the disciplines of computer science and philosophy.
 
 ## BFO
 - [BFO Book](https://www.biblio.com/search.php?stage=1&author=barry+smith&title=building+ontologies+with+basic+formal+ontology) - *Building Ontologies with Basic Formal Ontology*. Essentially an in-depth tutorial of BFO's philosophical grounding and real examples of how to use it. MUST READ for a full understanding.
