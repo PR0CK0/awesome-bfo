@@ -30,7 +30,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - University email: phismith@buffalo.edu
 - Company email: ifomis@gmail.com
 - [Homepage](http://ontology.buffalo.edu/)
-- [YouTube](https://www.youtube.com/c/BarrySmithOntology/playlists) - Includes in-depth tutorials for BFO, in addition to all of his lectures.
+- [YouTube](https://www.youtube.com/c/BarrySmithOntology/playlists) - Includes in-depth tutorials for BFO/IAO, in addition to all of his lectures on philosophical ontology and military ontology.
 - [Links to his papers, ontologies, associations, contacts and projects](http://ontology.buffalo.edu/smith/)
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
   - [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
