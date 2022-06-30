@@ -47,3 +47,7 @@ Very active on all platforms referred to as of June 30th, 2022.
 - [Ontology for Data Mining (OntoDM)](https://kt.ijs.si/panovp/OntoDM/)
 
 ## Barry Smith Relevant Reading
+
+## Important Topics
+- [Joint Doctrine Ontology (JDO](http://ncorwiki.buffalo.edu/index.php/Joint_Doctrine_Ontology)
+- [Semantic Technology for Intelligence, Defense and Security (STIDS) 2010-2016 Conferences Proceedings](http://stids.c4i.gmu.edu/index.php) - Click on the agenda link and view the presentations there.
