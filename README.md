@@ -12,6 +12,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [Barry Smith](#barry-smith)
 - [BFO-Derived Ontologies](#bfo-derived-ontologies)
 - [Barry Smith Relevant Reading](#barry-smith-relevant-reading)
+- [Relevant Topics](#relevant-topics)
 
 ## Related Lists
 - [Awesome Semantic Web](https://github.com/PR0CK0/awesome-semantic-web) - Related awesome list with general Semantic Web resources.
@@ -48,6 +49,6 @@ Very active on all platforms referred to as of June 30th, 2022.
 
 ## Barry Smith Relevant Reading
 
-## Important Topics
+## Relevant Topics
 - [Joint Doctrine Ontology (JDO)](http://ncorwiki.buffalo.edu/index.php/Joint_Doctrine_Ontology)
 - [Semantic Technology for Intelligence, Defense and Security (STIDS) 2010-2016 Conferences Proceedings](http://stids.c4i.gmu.edu/index.php) - Click on the agenda link and view the presentations there.
