@@ -49,6 +49,11 @@ Very active on all platforms referred to as of June 30th, 2022.
 - [Ontology for Data Mining (OntoDM)](https://kt.ijs.si/panovp/OntoDM/)
 
 ## Barry Smith Relevant Reading
+- [Ontology for the Intelligence Analyst](http://ontology.buffalo.edu/smith/articles/Crosstalk-Nov2012.pdf)
+- [Joint Doctrine Ontology and Military Information Systems Interoperability](http://ncor.buffalo.edu/2015/STIDS-JDO.pdf)
+- [Horizontal Integration of Intelligence Data](http://ontology.buffalo.edu/smith/articles/Horizontal-integration.pdf)
+- [IAO for the Intelligence Community](http://ontology.buffalo.edu/smith/articles/STIDS-2013.pdf)
+- [Ontological Support for Living Plan Specification, Execution and Evaluation](http://ontology.buffalo.edu/smith/articles/planning-stids-2014.pdf)
 
 ## Relevant Topics
 - [Joint Doctrine Ontology (JDO)](http://ncorwiki.buffalo.edu/index.php/Joint_Doctrine_Ontology)
