@@ -37,6 +37,7 @@ Very active on all platforms referred to as of June 30th, 2022.
 - [Links to his papers, ontologies, associations, contacts and projects](http://ontology.buffalo.edu/smith/)
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
   - [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
+  - [NCOR Wiki All Pages Indexed](http://ncorwiki.buffalo.edu/index.php/Special:AllPages)
 
 ## BFO-Derived Ontologies
 - [Open Biomedical Ontologies](https://obofoundry.org/)
