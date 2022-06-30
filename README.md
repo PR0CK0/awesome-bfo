@@ -17,7 +17,6 @@ Related awesome list with general Semantic Web resources.
 - [Awesome Semantic Web](https://github.com/PR0CK0/awesome-semantic-web)
 
 ## BFO
-Any link here has download links for BFO in OWL.
 - [BFO Book](https://www.biblio.com/search.php?stage=1&author=barry+smith&title=building+ontologies+with+basic+formal+ontology) - *Building Ontologies with Basic Formal Ontology*. Essentially an in-depth tutorial of BFO's philosophical grounding and real examples of how to use it. MUST READ for a full understanding.
 - [BFO at OBOFoundry](https://obofoundry.org/ontology/bfo.html)
 - [BFO at Ontobee](https://ontobee.org/ontology/bfo)
