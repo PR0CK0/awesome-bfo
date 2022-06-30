@@ -5,7 +5,7 @@ A curated list of various BFO and BFO-related resources.
 
 ## Contents
 
-- [Standards](#standards)
+- [BFO](#bfo)
 - [Serialization](#serialization)
 - [Datatypes](#datatypes)
 - [Companies](#companies)
@@ -73,9 +73,13 @@ A curated list of various BFO and BFO-related resources.
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
-## Standards
-
-- [XSD Datatypes](https://www.w3.org/2011/rdf-wg/wiki/XSD_Datatypes)
+## BFO
+Any link here has downloads for BFO in OWL.
+- [BFO at OBOFoundry](https://obofoundry.org/ontology/bfo.html)
+- [BFO at Ontobee](https://ontobee.org/ontology/bfo)
+- [BFO at AberOWL](http://aber-owl.net/ontology/BFO/#/)
+- [BFO at OLS](https://www.ebi.ac.uk/ols/ontologies/bfo)
+- [BFO at BioPortal](https://bioportal.bioontology.org/ontologies/BFO?p=classes)
 
 ### RDF
 
