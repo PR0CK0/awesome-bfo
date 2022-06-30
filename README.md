@@ -35,6 +35,6 @@ Related awesome list with general Semantic Web resources.
 - [Common Core Ontologies (CCO)](https://github.com/CommonCoreOntology/CommonCoreOntologies)
 - [CCO Extended for Data Integration by CUBRC](https://cubrc.org/index.php/data-science-and-information-fusion/ontology)
 - [Information Artifact Ontology (IAO)](https://obofoundry.org/ontology/iao.html)
-- [IAO-extended Information ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Data_and_Information_Ontologies)
+- [IAO-Based Information ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Data_and_Information_Ontologies)
 - [BFO-Based Engineering Ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Engineering_Ontologies)
 - [Ontology for Data Mining (OntoDM)](https://kt.ijs.si/panovp/OntoDM/)
