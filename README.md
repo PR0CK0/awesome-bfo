@@ -28,13 +28,13 @@ Related awesome list with general Semantic Web resources.
 - [Homepage](http://ontology.buffalo.edu/)
 - [Links to his papers, ontologies, associations, contacts and projects](http://ontology.buffalo.edu/smith/)
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
-- [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
+  - [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
 
 ## BFO-Derived Ontologies
 - [Open Biomedical Ontologies](https://obofoundry.org/)
 - [Common Core Ontologies (CCO)](https://github.com/CommonCoreOntology/CommonCoreOntologies)
-- [CCO Extended for Data Integration by CUBRC](https://cubrc.org/index.php/data-science-and-information-fusion/ontology)
+  - [CCO Extended for Data Integration by CUBRC](https://cubrc.org/index.php/data-science-and-information-fusion/ontology)
 - [Information Artifact Ontology (IAO)](https://obofoundry.org/ontology/iao.html)
-- [IAO-Based Information ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Data_and_Information_Ontologies)
+  - [IAO-Based Information ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Data_and_Information_Ontologies)
 - [BFO-Based Engineering Ontologies](http://ncorwiki.buffalo.edu/index.php/BFO-Based_Engineering_Ontologies)
 - [Ontology for Data Mining (OntoDM)](https://kt.ijs.si/panovp/OntoDM/)
