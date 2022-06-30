@@ -27,6 +27,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [BFO at BioPortal](https://bioportal.bioontology.org/ontologies/BFO?p=classes)
 
 ## Barry Smith
+Very active on all platforms referred to as of June 30th, 2022.
 - University email: phismith@buffalo.edu
 - Company email: ifomis@gmail.com
 - [Homepage](http://ontology.buffalo.edu/)
