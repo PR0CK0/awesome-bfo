@@ -5,6 +5,7 @@ A curated list of various BFO and BFO-related resources.
 
 ## Contents
 
+- [Semantic Web](#semantic-web)
 - [BFO](#bfo)
 - [Serialization](#serialization)
 - [Datatypes](#datatypes)
@@ -73,8 +74,12 @@ A curated list of various BFO and BFO-related resources.
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
+## Semantic Web
+Related awesome list with general Semantic Web resources.
+- [Awesome Semantic Web](https://github.com/PR0CK0/awesome-semantic-web)
+
 ## BFO
-Any link here has downloads for BFO in OWL.
+Any link here has download links for BFO in OWL.
 - [BFO at OBOFoundry](https://obofoundry.org/ontology/bfo.html)
 - [BFO at Ontobee](https://ontobee.org/ontology/bfo)
 - [BFO at AberOWL](http://aber-owl.net/ontology/BFO/#/)
