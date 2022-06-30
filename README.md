@@ -33,3 +33,4 @@ Any link here has download links for BFO in OWL.
 ## Derived Ontologies
 - [Open Biomedical Ontologies](https://obofoundry.org/)
 - [Common Core Ontologies (CCO)](https://github.com/CommonCoreOntology/CommonCoreOntologies)
+- [Ontology for Data Mining (OntoDM)](https://kt.ijs.si/panovp/OntoDM/)
