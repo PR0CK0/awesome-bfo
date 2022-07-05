@@ -26,6 +26,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [BFO at AberOWL](http://aber-owl.net/ontology/BFO/#/)
 - [BFO at OLS](https://www.ebi.ac.uk/ols/ontologies/bfo)
 - [BFO at BioPortal](https://bioportal.bioontology.org/ontologies/BFO?p=classes)
+- [BFO's actual homepage](http://basic-formal-ontology.org/) - Older webpage, has a lot of authors and contact information.
 - [Barry Smith's BFO Tutorial Videos](https://www.youtube.com/c/BarrySmithOntology/playlists)
 
 ## Barry Smith
