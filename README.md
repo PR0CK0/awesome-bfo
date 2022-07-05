@@ -38,6 +38,7 @@ Very active on all platforms referred to as of June 30th, 2022.
 - [National Center for Ontological Research (NCOR)](http://ncor.us/)
   - [NCOR Wiki](http://ncorwiki.buffalo.edu/index.php/Main_Page)
   - [NCOR Wiki All Pages Indexed](http://ncorwiki.buffalo.edu/index.php/Special:AllPages)
+- [Industrial Ontologies Foundry](https://www.industrialontologies.org/helpful-materials-on-ontologies/)
 
 ## BFO-Derived Ontologies
 - [Open Biomedical Ontologies](https://obofoundry.org/)
