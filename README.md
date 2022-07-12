@@ -20,13 +20,16 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [Awesome Philosophy in Computer Science](https://github.com/glennstreet/awesome-philosophy-compsci) - A list of resources that cross the disciplines of computer science and philosophy.
 
 ## BFO
+- [BFO's PURL (http://purl.obolibrary.org/obo/bfo.owl)](http://purl.obolibrary.org/obo/bfo.owl)
 - [BFO Book](https://www.biblio.com/search.php?stage=1&author=barry+smith&title=building+ontologies+with+basic+formal+ontology) - *Building Ontologies with Basic Formal Ontology*. Essentially an in-depth tutorial of BFO's philosophical grounding and real examples of how to use it. MUST READ for a full understanding.
 - [BFO at OBOFoundry](https://obofoundry.org/ontology/bfo.html)
 - [BFO at Ontobee](https://ontobee.org/ontology/bfo)
 - [BFO at AberOWL](http://aber-owl.net/ontology/BFO/#/)
 - [BFO at OLS](https://www.ebi.ac.uk/ols/ontologies/bfo)
 - [BFO at BioPortal](https://bioportal.bioontology.org/ontologies/BFO?p=classes)
+- [BFO at Github](https://github.com/orgs/BFO-ontology/repositories)
 - [BFO's actual homepage](http://basic-formal-ontology.org/) - Older webpage, has a lot of authors and contact information.
+- [BFO's Google Discussion Page](https://groups.google.com/g/bfo-discuss)
 - [Barry Smith's BFO Tutorial Videos](https://www.youtube.com/c/BarrySmithOntology/playlists)
 
 ## Barry Smith
