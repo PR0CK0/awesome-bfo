@@ -33,7 +33,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [Barry Smith's BFO Tutorial Videos](https://www.youtube.com/c/BarrySmithOntology/playlists)
 
 ## Barry Smith
-Very active on all platforms referred to as of June 30th, 2022.
+Very active on all platforms referred to as of mid-July 2022.
 - University email: phismith@buffalo.edu
 - Company email: ifomis@gmail.com
 - [Homepage](http://ontology.buffalo.edu/)
