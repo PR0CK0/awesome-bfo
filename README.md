@@ -9,6 +9,7 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 
 - [Related Lists](#related-lists)
 - [BFO](#bfo)
+- [BFO Learning Videos](#bfo-learning-videos)
 - [Barry Smith](#barry-smith)
 - [BFO-Derived Ontologies](#bfo-derived-ontologies)
 - [Barry Smith Relevant Reading](#barry-smith-relevant-reading)
@@ -30,7 +31,16 @@ The creation of Barry Smith, BFO is described as growing out of a philosophical 
 - [BFO at Github](https://github.com/orgs/BFO-ontology/repositories)
 - [BFO's actual homepage](http://basic-formal-ontology.org/) - Older webpage, has a lot of authors and contact information.
 - [BFO's Google Discussion Page](https://groups.google.com/g/bfo-discuss)
-- [Barry Smith's BFO Tutorial Videos](https://www.youtube.com/c/BarrySmithOntology/playlists)
+- [BFO's ISO/IEC 21838 Top-Level Ontlogies Standard Page](https://www.iso.org/standard/74572.html)
+
+## BFO Learning Videos
+All of Barry Smith's most relevant playlists.
+- [BFO for Military Ontologies](https://www.youtube.com/watch?v=U8LTHhpF4Wk&list=PLyngZgIl3WTj1nFnJo9sgaFeI-ovxxH1-)
+- [BFO Tutorial 2019](https://www.youtube.com/watch?v=muafRW0bXgw&list=PLyngZgIl3WTj6tWcypTLpCnYXu6o93kD4)
+- [BFO for Engineers](https://www.youtube.com/watch?v=Gh0f2Us0hr0&list=PLyngZgIl3WTiUmcchT_Zf2peiEZwx72G_)
+- [BFO for Systems Engineering](https://www.youtube.com/watch?v=QGmwIWmyJeg&list=PLyngZgIl3WTgK3qMmOWt4VDIbh-xB3Ejk)
+- [IAO](https://www.youtube.com/watch?v=PBKsupBquok&list=PLyngZgIl3WTi9ez4OjbXDlYtLb-vSxLHc)
+- [All BFO-related videos](https://www.youtube.com/watch?v=iTNQYyh88-Y&list=PLyngZgIl3WTiv14_38gdzEubaurk4v6E3)
 
 ## Barry Smith
 Very active on all platforms referred to as of mid-July 2022.
