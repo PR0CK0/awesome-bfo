@@ -76,3 +76,4 @@ If a link does not work, copy the address and paste it into the search bar yours
 - [Joint Doctrine Ontology (JDO)](http://ncorwiki.buffalo.edu/index.php/Joint_Doctrine_Ontology)
 - [Semantic Technology for Intelligence, Defense and Security (STIDS) 2010-2016 Conferences Proceedings](http://stids.c4i.gmu.edu/index.php) - Click on the agenda link and view the presentations there.
 - [BFO and military ontologies](https://www.youtube.com/user/bmandrick/videos) - The YouTube channel of Lieutenant Colonel Bill Mandrick, who has posted some useful videos on military ontology development.
+- [militaryontology.org](https://web.archive.org/web/20161003073611/http://militaryontology.org/) - The website of LTC Bill Mandrick, who worked with BFO and Barry Smith to put out a lot of information regarding military ontology development.
